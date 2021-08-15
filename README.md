@@ -2,8 +2,14 @@
 ### This is a repository to save and showcase projects done for school. 
 This Repository does not hold every course I have taken, nor does it hold every project I have done. These are some of the projects I have worked on over the course of my education, organized by the course they were for. I have also listed out the computer science courses I have taken with a short description.  
 
+## CS300 - Analysis and Design
+This course was focused on learning how and when to use specific data structures, and writing and evaluating algorithms to improve performance. The main language used was used C++.  
+
+## CS230 - Operating Platforms
+This course showed a large overview of many different operating platforms. This included learning about operating systems, architecture design, and and introduction to REST API's. The lauguage used was Java, using dropwizard. 
+
 ## CS210 - Programming Languages
-This course was focused on teaching how to ultilize the best language for particular problems.The course also had a focus on building well-designed, well-documented, and readable code. The lauguages used were Python, C++, and Java.
+This course was focused on teaching how to ultilize the best language for particular problems.The course also had a focus on building well-designed, well-documented, and readable code. The language used were Python, C++, and Java.
 
 ### Project 3 - Natural Grocers
 This project was C++/Python console application simulating a grocery store product tracker. It allows users to see a list of products purchased in a given day, see how many times a specified item was purchased, and view a histogram of items purchased in a day.
