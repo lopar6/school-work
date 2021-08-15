@@ -1,4 +1,4 @@
-# school-work
+# School Work
 ### This is a repository to save and showcase projects done for school. 
 This Repository does not hold every course I have taken, nor does it hold every project I have done. These are some of the projects I have worked on over the course of my education, organized by the course they were for. I have also listed out the computer science courses I have taken with a short description.  
 
