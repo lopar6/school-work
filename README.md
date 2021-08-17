@@ -5,8 +5,14 @@ This Repository does not hold every course I have taken, nor does it hold every 
 ## CS300 - Analysis and Design
 This course was focused on learning how and when to use specific data structures, and writing and evaluating algorithms to improve performance. The main language used was used C++.  
 
+### Course Planner Project
+This project was a console application in C++ for creating a mock course planner. The goal was to utilized the data strucuters and algorithms learned throughout the course. 
+
 ## CS230 - Operating Platforms
 This course showed a large overview of many different operating platforms. This included learning about operating systems, architecture design, and and introduction to REST API's. The lauguage used was Java, using dropwizard. 
+
+### Project - Analyze and Recommend Archetecture and Platform
+This was a project focusing on finding the best archetecture design pattern and platform for a theoretical new game. I learned a great deal about architecture patterns, and the pros and cons of various platforms. 
 
 ## CS210 - Programming Languages
 This course was focused on teaching how to ultilize the best language for particular problems.The course also had a focus on building well-designed, well-documented, and readable code. The language used were Python, C++, and Java.
