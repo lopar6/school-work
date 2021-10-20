@@ -2,7 +2,7 @@
 ### This is a repository to save and showcase projects done for school. 
 This Repository does not hold every course I have taken, nor does it hold every project I have done. These are some of the projects I have worked on over the course of my education, organized by the course they were for. I have also listed out the computer science courses I have taken with a short description.  
 
-## CS255 - Analysis and Design
+## CS255 - System Analysis and Design
 This purpose of this course was to learn the principles, methods, and techniques used in systems development so that I can create system models using appropriate industry tools. I learned to effectively communicate technical concepts and design decisions to various audiences in a professional manner as a part of creating system models.
 
 ### DriverPass Design Project
