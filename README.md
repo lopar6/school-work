@@ -1,6 +1,12 @@
 # School Work
 ### This is a repository to save and showcase projects done for school. 
-This Repository does not hold every course I have taken, nor does it hold every project I have done. These are some of the projects I have worked on over the course of my education, organized by the course they were for. I have also listed out the computer science courses I have taken with a short description.  
+This Repository does not hold every course I have taken, nor does it hold every project I have done. These are some of the projects I have worked on over the course of my education, organized by the course they were for. I have also listed out the computer science courses I have taken with a short description.
+
+## CS305 Software Securtiy
+In this course we focused on essential securtiy considerations when building and maintaining software. The primary focus was on building secure web applications that utilized modern methods of encryption, security layers, and good software practices. 
+
+### Vulnerability Assessment Report
+The vulnerability assessment project was a project where we utilized static testing in the form of dependency test, as well as reviewing the code to determine any vulnerablities present. 
 
 ## MAT350 Applied Linear Algebra
 This course's focus was linear algebra and matrices using MATLAB. Topics include systems of linear equations, linear independence, matrices of linear transformations, matrix algebra, determinants, vector spaces, eigenvalues and eigenvectors. I then utilized these concepts and skills to model a selection of applied mathematics problems in business, science, computer science and economics.
@@ -12,7 +18,7 @@ This purpose of this course was to learn the principles, methods, and techniques
 This was a project to help me learn how to utilize tools and techinques to design software systems. This involed collecting requiremnets, making diagrams, and communicating technical ideas in a non-technical way. 
 
 ## CS300 - Analysis and Design
-This course was focused on learning how and when to use specific data structures, and writing and evaluating algorithms to improve performance. The main language used was used C++.  
+This course was focused on learning how and when to use specific data structures, and writing and evaluating algorithms to improve performance. The main language used was used C++.
 
 ### Course Planner Project
 This project was a console application in C++ for creating a mock course planner. The goal was to utilized the data strucuters and algorithms learned throughout the course. 
