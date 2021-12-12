@@ -2,11 +2,17 @@
 ### This is a repository to save and showcase projects done for school. 
 This Repository does not hold every course I have taken, nor does it hold every project I have done. These are some of the projects I have worked on over the course of my education, organized by the course they were for. I have also listed out the computer science courses I have taken with a short description.
 
-## CS305 Software Securtiy
+## CS320 - 
+The focus of this course was ensuring quality by throughly testing software. A major focus was writing proper unit tests that adequately determine if the code meets the requirements. Other testing methods like integration testing, end-to-end testing and many more also covered.
+
+### Services Testing
+In this project I wrote a few services and tests for those services. The tests ensured that the services met the requirments, were technically sound, and efficient.
+
+## CS305 - Software Securtiy
 In this course we focused on essential securtiy considerations when building and maintaining software. The primary focus was on building secure web applications that utilized modern methods of encryption, security layers, and good software practices. 
 
 ### Vulnerability Assessment Report
-The vulnerability assessment project was a project where we utilized static testing in the form of dependency test, as well as reviewing the code to determine any vulnerablities present. 
+The vulnerability assessment project was a project where we utilized static testing in the form of dependency test, as well as reviewing the code to determine any vulnerablities present. The end result of was a report that outlines potental problems with the code, and how these problems may be resolved.
 
 ## MAT350 Applied Linear Algebra
 This course's focus was linear algebra and matrices using MATLAB. Topics include systems of linear equations, linear independence, matrices of linear transformations, matrix algebra, determinants, vector spaces, eigenvalues and eigenvectors. I then utilized these concepts and skills to model a selection of applied mathematics problems in business, science, computer science and economics.
@@ -37,7 +43,7 @@ This project was C++/Python console application simulating a grocery store produ
 In this project I did well by documenting my code, and writing it in an efficient manner. I could have done a better job making the application more efficient by not importing the entire standard library, and instead specifying the particular pieces I needed(std::cout). Before going into this project I had a fairly solid foundational understanding of C++ and Python. This project has helped me sharpin those skills. 
 
 ## CS250 - Software Development Lifecycle
-This course was a designed to introduce students to different software development methodolgies. It had a strong focus in the agile method, particularly Scrum. Students took the role of various memebers of a team to get a since of how to effectively use the methodolgies, and why they are important.   
+This course was a designed to introduce students to different software development methodolgies. It had a strong focus in the agile method, particularly Scrum. Students took the role of various memebers of a team to get a since of how to effectively use the methodolgies, and why they are important.
 
 ### Final Project - Sprint Review and Retrospective
 This project was a culmination of the 'sprint' that took place over the length of the course. The end product was a review of the sprint, and the roles that each team member had during the course of it. 
@@ -58,7 +64,7 @@ This course focused on object oriented programming practices, as well as introdu
 This course focused on studying the different ways that computer science principles and practices are utilized in the real world. 
 
 ## IT-145 - Foundation in App Development
-This course focused on good practices for effective object oriented programming. The main language used was Java.  
+This course focused on good practices for effective object oriented programming. The main language used was Java.
 
 ## CSCI 1170 - Computer Science I
 This course focused on the fundamentals of computer science and object oriented programming. The main language used was Python. 
