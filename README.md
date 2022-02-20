@@ -2,7 +2,13 @@
 ### This is a repository to save and showcase projects done for school. 
 This Repository does not hold every course I have taken, nor does it hold every project I have done. These are some of the projects I have worked on over the course of my education, organized by the course they were for. I have also listed out the computer science courses I have taken with a short description.
 
-## CS320 - 
+## CS330 - Computer Graphic and Visualization
+The focus of this course was to learn how to use OpenGL in C++, learn about computer graphics, and the general approach to tackling difficult problems while crafting clean and readable code.
+
+### 3D scene project
+In this project I used the skills learned throught the course to write an OpenGl application that replicates a personal picture. It includes a the uses of multiple primative shapes to build objects, projecting textures, applying lighting utilizing the phong shading model, nuanced camera controls, and 2D/3D perspectives that can be viewed at will by the user.
+
+## CS320 - Software Test Automation & QA
 The focus of this course was ensuring quality by throughly testing software. A major focus was writing proper unit tests that adequately determine if the code meets the requirements. Other testing methods like integration testing, end-to-end testing and many more also covered.
 
 ### Services Testing
