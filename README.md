@@ -2,6 +2,23 @@
 ### This is a repository to save and showcase projects done for school.
 This Repository does not hold every course I have taken, nor does it hold every project I have done. These are some of the projects I have worked on over the course of my education, organized by the course they were for. I have also listed out the computer science courses I have taken with a short description.
 
+## CS-470 - Full Stack Development II
+This course focused on teach full stack development skills. The two primary skills I learned more about it this class was docker and docker-compose, and utilizing AWS.
+
+### AWS Full Stack Quiz App
+This is a full stack application hosted on AWS. It utilizes S3 for frontend code storage, DynamoDB, Lambda, and API Gateway.
+
+## CS370 - Current/Emerging Trends in CS
+This is a focused on machine learning. This course taught concepts and applications of neural networks using keras in python.
+
+### AI player for maze game
+This project was to design a deep Q-learning algorithm to train a neural network. It uses keras in python and runs in a Jupyter Notebook file.
+
+## CS-465 - Full Stack Development
+The focus of this course was building a full stack applications. The course focused on the fundamentals of web applications, and well as specifics about applications utilizing a MEAN stack.
+
+### Full Stack Travel Agency Booking Site
+This was a web app travel agency that allows users to book trips. It also includes and admin panel. It utilized Javascript, Mongo, Express, AngularJS, and Node.
 
 ## CS360 - Mobile Architect & Programming
 This course was about developing in Android using Java. It also focused on aspects of developing apps for mobile in general.
