@@ -27,11 +27,7 @@ This course was about developing in Android using Java. It also focused on aspec
 This was an Android app designed to help users make accounts, login, allow permissions, and add, read, change, and delete inventory items in a grid based layout.
 
 ## CS340 - Client/Server Development
-The focus of this course was to learn how to build a full-stack application utilizing a database, backend, and frontend.
-
-
-### 3D scene project
-In this project I used the skills learned through the course to write an OpenGl application that replicates a personal picture. It includes a the uses of multiple primitive shapes to build objects, projecting textures, applying lighting utilizing the phong shading model, nuanced camera controls, and 2D/3D perspectives that can be viewed at will by the user.
+The focus of this course was to learn how to build a full-stack application utilizing a database, backend, and frontend. Particular focus was given to RESTful apis and setting up proper endpoints.
 
 ## CS330 - Computer Graphic and Visualization
 The focus of this course was to learn how to use OpenGL in C++, learn about computer graphics, and the general approach to tackling difficult problems while crafting clean and readable code.
